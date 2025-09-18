@@ -68,7 +68,7 @@ export default function Header() {
             <p className="mt-8 text-lg font-medium text-pretty text-gray-500 sm:text-xl/8">
               Naša kompanija je pouzdan partner u oblasti uvoza i distribucije mašina i opreme za antikorozivnu zaštitu, peskarenje i rukovanje tečnim materijalima. Specijalizovani smo za rešenja koja olakšavaju i ubrzavaju građevinske radove, kako u enterijeru tako i na eksterijeru.
 
-U ponudi imamo mašine za gletovanje i krečenje, malterisanje, fasadne radove, kao i savremene sisteme za obeležavanje puteva. Posebno ističemo širok izbor profesionalnih mašina za farbanje, prilagođenih različitim potrebama naših.
+U ponudi imamo mašine za gletovanje i krečenje, malterisanje, fasadne radove, kao i savremene sisteme za obeležavanje puteva. Posebno ističemo širok izbor profesionalnih mašina za farbanje, prilagođenih različitim potrebama naših kupaca.
 <br/>
 Za ponudu i za sve dodatne informacije o proizvodima, kontaktirajte nas na email bonafidesconsulting.co@gmail.com 
             </p>
